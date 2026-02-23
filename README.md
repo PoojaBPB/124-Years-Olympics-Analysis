@@ -14,8 +14,8 @@ The application allows users to choose between **☀️Summer** and **❄️Wint
 - Overall analysis (statistics; countries, events and athletes over time; heatmap of events per sport over time )  
 - Country wise analysis (heatmap of country's sport wise analysis and top athletes) 
 - Athlete wise analysis (age distributions, gold medalist age distribution per sport, gender participation trends)
-
 Each section provides structured analytical modules for deep exploration.
+
 ---------------------------------------
 ## 🌐 Live Streamlit App
 
