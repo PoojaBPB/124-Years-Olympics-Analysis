@@ -17,6 +17,14 @@ The application allows users to choose between **☀️Summer** and **❄️Wint
 
 Each section provides structured analytical modules for deep exploration.
 ---------------------------------------
+## 🌐 Live Streamlit App
+
+Experience the 124 Years of Olympics Analysis **online**:
+
+**🔗 Click here to open the app:**  
+[Open Live Streamlit App](https://poojabpb-124-years-olympics-analysis-main-0entas.streamlit.app/)
+
+---------------------------------------
 ## 🛠 Tech Stack
 - Python  
 - Streamlit
